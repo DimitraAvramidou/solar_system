@@ -1,0 +1,5 @@
+﻿  visuals.cpp
+c:\users\myrto\desktop\di\5\graphics\2017_ hliako systima\hliako_systhma\visuals.cpp(206): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\myrto\desktop\di\5\graphics\2017_ hliako systima\hliako_systhma\visuals.cpp(207): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  Course5.vcxproj -> C:\Users\Myrto\Desktop\DI\5\Graphics\2017_ Hliako Systima\Hliako_Systhma\Debug\Course5.exe
+  Course5.vcxproj -> C:\Users\Myrto\Desktop\DI\5\Graphics\2017_ Hliako Systima\Hliako_Systhma\Debug\Course5.pdb (Full PDB)
